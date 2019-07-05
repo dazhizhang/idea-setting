@@ -14,3 +14,6 @@ https://blog.csdn.net/Ideality_hunter/article/details/53331700
 
 # intellij idea设置默认工作目录<br>
 https://blog.csdn.net/sljackson/article/details/79655427<br>
+
+# Intellij IDEA 快捷键整理<br>
+https://www.cnblogs.com/tonycody/p/3257601.html<br>
