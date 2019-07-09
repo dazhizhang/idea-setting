@@ -17,3 +17,7 @@ https://blog.csdn.net/sljackson/article/details/79655427<br>
 
 # Intellij IDEA 快捷键整理<br>
 https://www.cnblogs.com/tonycody/p/3257601.html<br>
+
+# IntelliJ IDEA 自动导入包 快捷方式
+https://blog.csdn.net/hxpjava1/article/details/78135934
+setting在新版是preference
